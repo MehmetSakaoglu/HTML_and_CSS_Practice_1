@@ -1,0 +1,6 @@
+img[alt=""]{
+    background-color: blue;
+}
+img[width="250"] {
+    background:green;
+}
